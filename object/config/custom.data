@@ -1,0 +1,4 @@
+classes= 221
+train=train_list.txt
+valid=val_list.txt
+names=objects_en.txt

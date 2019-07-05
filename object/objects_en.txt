@@ -1,0 +1,221 @@
+truck
+shoe
+car
+table
+SUV
+glasses
+flower
+horse
+computer monitor
+Whiteboard
+swimming pool
+window
+laptop
+keyboard
+house
+pot
+toy
+box
+Suit
+curtain
+book
+Pillar
+Tire
+fish
+Cutting board
+door
+hat
+bowl
+chopsticks
+pants
+guitar
+fountain
+Ship
+bottle
+Sportswear
+TV set
+camera
+oven
+ball
+cake
+candy
+Mixer
+seafood
+microphone
+Sunglasses
+shirt
+ice cream
+dress
+piano
+bicycle
+helmet
+Tin can
+drum
+dog
+salad
+trunk
+egg
+stairs
+milk
+bird
+aircraft
+plate
+flower pot
+sculpture
+Christmas tree
+Coffee machine
+kitchen knife
+jacket
+necklace
+license
+cup
+Jellyfish
+military uniform
+Microwave oven
+Hood
+sword
+Treadmill
+Police uniform
+traffic light
+Bus
+Paragliding
+carriage
+tent
+flag
+gun
+Ukulele
+table lamp
+bed
+Bedside table
+Sweeping robot
+mirror
+spider
+sheep
+Mobile phone
+pillow
+washbasin
+Flute
+Baby carriage
+Bathtub
+racket
+Swimsuit
+Copier
+Drinking fountain
+sound
+wardrobe
+Motorcycle
+violin
+Fire truck
+microscope
+washing machine
+vacuum cleaner
+Drone
+excavator
+ladder
+tank
+pool table
+backpack
+mouse
+Dressing table
+bookshelf
+radio
+accordion
+sofa
+Broom
+umbrella
+Racing car
+Short skirt
+beer bottle
+Clay tanker
+Ferris wheel
+bread
+wheelchair
+tie
+pen
+life jacket
+Podium
+blackboard
+Wedding dress
+Picture frame
+Glider
+table
+fan
+Barbell
+Buddha statue
+Sewing machine
+sailboat
+Soap box
+Protective mask
+vending machine
+headset
+crane
+telephone pole
+toothbrush
+lantern
+bridge
+gun
+porcelain
+hair dryer
+refrigerator
+quilt
+Bear
+child safety seat
+toy doll
+Street sign
+Fire extinguisher
+Ping pong table
+balloon
+chimney
+oxygen cylinder
+u disk
+chair
+fruit
+rice
+Street light
+air conditioning
+ambulance
+kite
+ruler
+nipple
+T-shirt
+Down jacket
+Coat rack
+Shoebox
+cash
+sock
+bracelet
+handbag
+camera
+tripod
+Gas stoves
+Boxing bag
+submarine
+coin
+lute
+Potted plant
+tombstone
+Toilet
+Mahjong
+Bell
+Basketball stand
+candle
+trash can
+scissors
+rocket
+vase
+Red carpet
+billboard
+Guzheng
+steering wheel
+Electronic scale
+Electric roller
+Shaver
+Induction cooker
+lighter
+hammer
+taxi
+Patch panel
+shell
+newspaper
+seal
+Spoon
