@@ -26,7 +26,7 @@ We extract one frame every 60 frames for efficiency. You can adjust the step wit
     
     python3 extract_keyframe.py root output_dir --mode {train, val, test} 
     
-### 5. All the model used in baseline can be downloaded from [Baidu Yun](https://pan.baidu.com/s/1HXL_zto755jBrbeqqdT0fg) (Code: 78yn) or [Google Drive](https://drive.google.com/open?id=1jZoDtTUFmDcGHNeZV2SfMcEMkBb5jwIH).
+### 5. All the model used in baseline and submission sample can be downloaded from [Baidu Yun](https://pan.baidu.com/s/1HXL_zto755jBrbeqqdT0fg) (Code: 78yn) or [Google Drive](https://drive.google.com/open?id=1jZoDtTUFmDcGHNeZV2SfMcEMkBb5jwIH).
 
 # Event
 Our baseline uses Temporal Segment Network to predict the event class of videos. More details can refer to the paper and original repo.
@@ -133,7 +133,7 @@ python3 train.py --data_config config/custom.data  --pretrained_weights weights/
 
 # Submission
 
-Run generate_submission.py to generate submission as baseline.json. The two threshold will filter the outputs with low confidence since some images has no scenes or objects in our label lists.
+Run generate_submission.py to generate submission as baseline.json (The submission sample file can be downloaded from Baidu Yun or Google drive). The two threshold will filter the outputs with low confidence since some images has no scenes or objects in our label lists.
 
  ```
 python3 generate_submission.py root --scene_thres --object_thres
@@ -145,7 +145,7 @@ python3 generate_submission.py root --scene_thres --object_thres
  
 |        | Event | Object | Scene | Total Score|
 | ---------- | --- | --- | --- | --- |
-| Validation |  77.30 | 25.89| 55.37 | 0.4796 |
+| Validation |  77.30 | 25.58| 55.37 | 0.4784 |
 | Test       | 78.17  | 23.42 | 55.29| 0.4712 |
 
 The object_thres = 0.9 and scene_thres = 0.7.
