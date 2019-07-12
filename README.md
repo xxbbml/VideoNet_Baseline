@@ -102,7 +102,7 @@ PyTorch = 1.1.0
 
 We finetune our model from Darknet.
 
-### 1. Generate scene list:
+### 1. Generate object list:
  ```
 python3 convert_yolo_format.py root keyframe_dir --mode {train, val, test}
  ```
