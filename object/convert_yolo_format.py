@@ -80,6 +80,15 @@ for vid in video_list:
                         if write == True:
                             out_file.write(str(cls_id) + " " + str(x) + " " + str(y) + " " + str(w) + " " + str(h) + '\n')
                 out_file.close()
+            else:
+                outfile_folder = os.path.join(output_folder,  video_id)
+                if not os.path.exists(outfile_folder):
+                    os.makedirs(outfile_folder)
+                outfile_name = os.path.join(outfile_folder, '%05d.txt'% keyframe)
+                if not os.path.isfile(outfile_name):
+                    out_file = open(outfile_name, 'w')
+                    out_file.write(str(0) + " " + str(0) + " " + str(0) + " " + str(0) + " " + str(0) + '\n')
+                out_file.close()
     if video_count % 100 ==0:
         print(video_count)
         end = time.time()
